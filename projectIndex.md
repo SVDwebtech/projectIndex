@@ -55,4 +55,5 @@
 ## NylstroomPest                       053
 ## GolbergTobacco                      054
 ## GoldbergTobaccoStatic               055   
-## Balance4You                         056   
+## Balance4You                         056
+## Haslek                              057   
