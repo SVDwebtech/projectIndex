@@ -56,4 +56,7 @@
 ## GolbergTobacco                      054
 ## GoldbergTobaccoStatic               055   
 ## Balance4You                         056
-## Haslek                              057   
+## Haslek                              057
+## EcommBootCamp                       058   
+## Lilia                               059
+## SvgStrokeAnimation                  060
